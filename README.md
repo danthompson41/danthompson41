@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there
+
+EE -> Embedded -> Full stack
+
+I can probably do your whole IOT stack, currently having fun on the internet centric side of it but not afraid of the things.
+
+
+Pronouns: He / Him
 
 <!--
 **danthompson41/danthompson41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
